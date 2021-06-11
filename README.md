@@ -4,4 +4,6 @@ This is just to test local repo to github options.
 
 ## Checkout Branch
 
-Now adding feature brunch
+1. Now adding feature brunch
+
+2. Test conflict.
