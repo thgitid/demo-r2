@@ -7,3 +7,5 @@ This is just to test local repo to github options.
 Now adding feature brunch
 
 Checked out merge conflict!
+
+Success
