@@ -6,6 +6,9 @@ This is just to test local repo to github options.
 
 1. Now adding feature brunch
 
-2. Test conflict.
+2. Checked out merge conflict!
 
-3. Successful!
+3. Test conflict.
+
+4. Successful!
+
